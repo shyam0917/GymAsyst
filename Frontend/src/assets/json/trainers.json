@@ -1,0 +1,84 @@
+{
+  "trainerData":[
+      {
+        "id" : 1,
+       "name" : "Amit Panghal",
+       "channelId" : "UCukpffOtrR2tiebsUFAc-fw"
+      },
+      {
+        "id" : 2,
+        "name" : "Ranveer Allahbadia",
+        "channelId" : "UCneyi-aYq4VIBYIAQgWmk_w"
+       },
+       {
+        "id" : 3,
+        "name" : "Abhinav Mahajan",
+        "channelId" : "UC7imP-cJhytGgRFC0HvayVQ"
+       },
+       {
+        "id" : 4,
+        "name" : "Sahil Khan",
+        "channelId" : "UCpk8SlbASeNIYLgh5bt8i5Q"
+       },
+       {
+        "id" : 5,
+        "name" : "Daman Singh",
+        "channelId" : "UCAZF3WiTLHsVJTlCvQmJiFw"
+       },
+       {
+        "id" : 6,
+        "name" : "Rubal Dhankar",
+        "channelId" : "UCqkzW64w1WX8fQof2ye1WKA"
+       },
+       {
+        "id" : 7,
+        "name" : "Gaurav Taneja",
+        "channelId" : "UCn8Fiasqd-6G3A6AS322mZA"
+       },
+       {
+        "id" : 8,
+        "name" : "Bhuvan Chauhan",
+        "channelId" : "UCaWrsp8Wmmnxt5i81cIHg0g"
+       },
+       {
+        "id" : 9,
+        "name" : "Sangram Chougle",
+        "channelId" : "UCfAz3AA3Y2KWdU5h6ThrUnA"
+       },
+       {
+        "id" : 10,
+        "name" : "Jeet Selal",
+        "channelId" : "UCg5LjzSV0GqSjXJXERkW1FA"
+       },
+       {
+        "id" : 11,
+        "name" : "Guru Mann",
+        "channelId" : "UCGMOauU8dOd4mv2bT3Tx57w"
+       },
+       {
+        "id" : 12,
+        "name" : "Vivek Mittal",
+        "channelId" : "UCYC6Vcczj8v-Y5OgpEJTFBw"
+       },
+       {
+        "id" : 13,
+        "name" : "Bhupender Dhawan",
+        "channelId" : "UCrq23_7IhvLc5TBYOfS9wpA"
+       },
+       {
+        "id" : 14,
+        "name" : "Riz Sunny",
+        "channelId" : "UCU3juAek2IQClkV7eUw-a2w"
+       },
+       {
+        "id" : 15,
+        "name" : "Yatinder Singh",
+        "channelId" : "UC12K7FCbzFG5BOMJrHn-sog"
+       },
+       {
+        "id" : 16,
+        "name" : "Vikas Choudhary",
+        "channelId" : "UCDM1dIPSSUcUo_aMWDi1R2w"
+       }
+  ]  
+}

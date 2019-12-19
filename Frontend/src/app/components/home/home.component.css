@@ -1,0 +1,17 @@
+/* to set height of carousel images*/
+.set-height{
+height:490px;
+}
+
+/* css for tab buttons*/
+.custom-fill .nav-link{
+    background: red;
+    border: 1px solid greenyellow;
+    color: white;
+}
+
+/* css for tab buttons on hover*/ 
+.custom-fill .nav-link:focus,.custom-fill .nav-link:hover{
+    background: #2948ff;
+    color: white;
+}
