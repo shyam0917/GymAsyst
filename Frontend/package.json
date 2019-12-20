@@ -22,6 +22,8 @@
     "@angular/router": "~7.0.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
+    "videogular2": "^7.0.1",
+    "youtube-parser": "^1.1.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
