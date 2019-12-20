@@ -1,15 +1,8 @@
-/* vg-player {
-    background-color: transparent;
-    margin: 30px;
-    width: 70%;
-    height: 50%;
+vg-player video {
+  width: 120%;
+  height: 100%;
 }
-    vg-controls {
-        padding: 30px;
-        transition: all 1s;
-    } */
 
-    vg-player video {
-        width: 120%;
-        height: 100%;
-    }
+.bg-black {
+ background: black;
+}

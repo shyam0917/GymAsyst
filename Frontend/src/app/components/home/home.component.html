@@ -84,7 +84,10 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6 col-md-3" *ngFor="let trainer of trainerData">
-                                <a routerLink="/trainer/{{trainer.id}}/{{trainer.channelId}}" class="badge badge-primary p-2 my-2"><h5>{{trainer.name}}</h5></a>
+                                    <a routerLink="/trainer/{{trainer.id}}/{{trainer.channelId}}" class="circular--landscape">
+                  <img class="circular--square" src="assets/images/gym.jpeg" />                            
+                                    </a>
+                  <!-- <a routerLink="/trainer/{{trainer.id}}/{{trainer.channelId}}" class="badge badge-primary p-2 my-2"><h5>{{trainer.name}}</h5></a> -->
                             </div>
                         </div>
                     </div>
